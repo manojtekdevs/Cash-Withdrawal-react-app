@@ -1,0 +1,18 @@
+.denomination-value {
+  margin: 5px;
+  width: 40%;
+  color: #ffffff;
+  background-color: #585076;
+  border: 2px solid #d4d2db;
+  border-radius: 6px;
+  font-size: 38px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+}
+@media screen and (min-width: 576px) {
+  .denomination-value {
+    margin: 10px;
+    width: 45%;
+  }
+}
